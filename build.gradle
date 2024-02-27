@@ -50,3 +50,9 @@ tasks.withType(Test) {
         }
     }
 }
+
+tasks.register("tests", Test) {
+    useJUnitPlatform {
+        includeTags("test")
+    }
+}
