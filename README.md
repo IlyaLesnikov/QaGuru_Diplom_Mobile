@@ -86,7 +86,7 @@ gradle clean test
 После завершения сборки приходит уведомления в Telegram
 
 <p align="center">
-<img width="40%"  title="Telegram Notifications" src="media/telegramBot.jpg">
+<img width="40%"  title="Telegram Notifications" src="media/telegramBot.png">
 </p>
 
 ## Видео примера запуска тестов в Selenoid
